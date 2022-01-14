@@ -1,0 +1,7 @@
+name = input ( "Import your name:" )
+print ( "Tên của bạn là:" , name )
+n = int ( input ( "Nhập một số:" ))
+d = dict ()
+cho  tôi  trong  phạm vi ( 1 , n + 1 ):
+    d [ i ] = i * i
+in ( d )
